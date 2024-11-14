@@ -25,7 +25,6 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
-- [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
 
 ---
 
@@ -120,4 +119,4 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+
